@@ -1,0 +1,9 @@
+[user]
+	email = vr@exante.eu
+	name = Valery Ryaboshapko
+[branch]
+	autosetuprebase = always
+[core]
+	autocrlf = input
+[push]
+	default = simple
